@@ -1,0 +1,41 @@
+# Python and notebook transient files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Credentials and private settings
+.env
+.env.*
+!.env.example
+kaggle.json
+credentials*.json
+*.pem
+*.key
+
+# Original export: retained in local package, not added to git by default
+data/raw/
+
+# Redundant regenerable standalone chart HTML and report
+outputs/figures/*.html
+voo_research_report.html
+
+# Temporary / large generated artifacts
+*.log
+*.tmp
+*.zip
+*.joblib
+*.pkl
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep the clean CSV, executed notebook, PNG figures and result tables tracked.

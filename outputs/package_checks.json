@@ -1,0 +1,14 @@
+{
+  "historical_rows": 4037,
+  "historical_columns": 7,
+  "forecast_rows": 66,
+  "code_cells_executed": 14,
+  "notebook_errors": 0,
+  "embedded_static_charts": 14,
+  "embedded_interactive_charts": 11,
+  "max_price_rounding_error_usd": 4.999999987376214e-07,
+  "source_dates_and_volume_preserved": true,
+  "title_characters": 35,
+  "subtitle_characters": 71,
+  "visual_review": "History/forecast, heatmap, test-path comparison and feature-importance PNGs inspected."
+}

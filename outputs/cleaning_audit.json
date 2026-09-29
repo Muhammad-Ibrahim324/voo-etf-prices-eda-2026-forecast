@@ -1,0 +1,18 @@
+{
+  "source": "User-supplied Yahoo Finance export via yfinance (user attribution)",
+  "source_sha256": "8ee6c722995e4a6338315b86787def89b3749a30b327c442d0f927348dbdd51c",
+  "clean_sha256": "2046ca2272c28ce96913c79acf3d5f74eb0561fe08cf5c710732290ad7b1dc24",
+  "raw_lines_after_csv_header": 4039,
+  "metadata_rows_removed": 2,
+  "exact_duplicate_rows_removed": 0,
+  "observations": 4037,
+  "first_date": "2010-09-09",
+  "last_date": "2026-09-28",
+  "missing_values": 0,
+  "price_decimals": 6,
+  "latest_close": 703.609985,
+  "zero_volume_rows": 0,
+  "adjustment_status": "Unverified; original auto_adjust/back_adjust settings unavailable",
+  "collection_timestamp": "Not supplied",
+  "preparation_date": "2026-09-29"
+}

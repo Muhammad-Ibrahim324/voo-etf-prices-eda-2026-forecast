@@ -1,0 +1,40 @@
+{
+  "history": {
+    "observations": 4037,
+    "first_date": "2010-09-09",
+    "last_date": "2026-09-28",
+    "latest_close": 703.609985,
+    "series_change_pct": 824.3744047355045,
+    "series_cagr_pct": 14.860279916276076,
+    "annualized_volatility_pct": 17.000600843928694,
+    "maximum_drawdown_pct": -33.993001305584706
+  },
+  "forecast": {
+    "selected_model": "Ridge",
+    "best_ml_model": "Ridge",
+    "horizon_sessions": 66,
+    "forecast_start": "2026-09-29",
+    "forecast_end": "2026-12-31",
+    "year_end_forecast": 731.3396740690271,
+    "year_end_change_pct": 3.9410596296507894,
+    "year_end_scenario_lower_80": 657.4823133200744,
+    "year_end_scenario_upper_80": 809.4041184846113,
+    "test_MAE_USD": 16.28804255791027,
+    "test_RMSE_USD": 18.622606130751585,
+    "test_MAPE_pct": 2.3257831299276535,
+    "test_skill_vs_last_close_pct": 30.833308515260594,
+    "test_scenario_coverage_80_pct": 100.0,
+    "test_scenario_coverage_95_pct": 100.0
+  },
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.8.0",
+    "plotly": "7.1.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "statsmodels": "0.15.0",
+    "exchange-calendars": "4.13.2",
+    "python": "3.12.14"
+  }
+}

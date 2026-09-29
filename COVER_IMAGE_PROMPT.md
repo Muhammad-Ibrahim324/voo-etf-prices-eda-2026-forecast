@@ -1,0 +1,7 @@
+# Dataset cover image prompt
+
+Create a premium Kaggle dataset cover in a 16:9 landscape composition, targeting 1600 × 900 pixels. Theme: VOO ETF historical market data, S&P 500 exposure, exploratory analysis, risk research and machine-learning forecasting.
+
+Use a deep midnight-navy background blending into polished indigo, with restrained emerald, cyan, violet, amber and silver accents. On the right, arrange sophisticated translucent analytical panels: a balanced candlestick chart with rising and falling sections, a monthly-return heatmap, a subtle data-table grid, and a forecast uncertainty fan expanding both upward and downward. Include a refined three-dimensional glass-and-metal data sphere with fine geometric lattice details to suggest quantitative computation. Keep all charts conceptual: no fabricated numeric price labels, return promises or exclusively upward performance story.
+
+On the left, place large, crisp, highly readable white text: “VOO ETF DATA”. Beneath it add “2010–2026 • EDA • Machine Learning”. Add a small badge reading “2026 FORECAST”, a discreet descriptor “S&P 500 ETF RESEARCH”, and the author credit “Muhammad Ibrahim Shahrukh”. Use generous negative space, wide safe margins, editorial typography, elegant cinematic lighting, sharp clean edges and exceptional readability at thumbnail size. The result should feel professional, modern and technically sophisticated without clutter. No Vanguard or other company logos, no people, no watermarks, no religious symbols and no claims of guaranteed accuracy or returns.
